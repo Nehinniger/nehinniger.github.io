@@ -1,11 +1,10 @@
 ---
-layout: post
 title: "Traditional Mead"
 ---
 
 ## Traditional Mead
 
-![The Mead](/_assets/2021-08-17-Classic-Mead.jpg)
+![The Mead](/assets/2021-08-17-Classic-Mead.jpg)
 
 Just honey, water, yeast, and (im)patience.
 
