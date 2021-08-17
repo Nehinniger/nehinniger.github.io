@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Traditional Mead
+title: "Traditional Mead"
 ---
 
 ## Traditional Mead
