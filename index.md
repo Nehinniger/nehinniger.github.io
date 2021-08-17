@@ -1,6 +1,4 @@
 ---
-layout: page
-title: "Index"
 ---
 
 # Here is the content for my page.
