@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Index:
+title: "Index"
 ---
 
 # Here is the content for my page.
