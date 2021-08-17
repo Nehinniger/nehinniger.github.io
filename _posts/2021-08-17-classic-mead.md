@@ -1,5 +1,6 @@
 ---
 title: "Traditional Mead"
+theme: jekyll-theme-tactile
 ---
 
 ## Traditional Mead

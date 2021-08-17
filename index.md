@@ -1,6 +1,13 @@
 ---
+title: "Nils Mead Resources"
 ---
 
-# Here is the content for my page.
+Site links:
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
-Below you can find some of the content for the page.
